@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oliver</h1>
-
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
-<h1>Dane Joel Whitfield <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi, I'm Oliver <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <h3>Software Engineer</h3>
   
 <h3 align="center">A passionate Cloud Engineer developer from Manchester</h3>
