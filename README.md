@@ -3,7 +3,7 @@
   <h3>Software Engineer</h3>
 <h3 align="center">A passionate Cloud Engineer developer from Manchester</h3>
 
-<img align="center" src="https://www.pinterest.co.uk/pin/436286282649836765/">
+<img align="center" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif">
 
 - 🔭 I’m currently working on **Node-api-project**
 
