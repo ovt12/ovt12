@@ -1,6 +1,7 @@
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
 <h1>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Oliver </h1>
   <h3>Software Engineer</h3>
+  <img align="center"  width="1000" src="https://www.lambdatest.com/resources/images/news24.gif">
   
 <h3 align="center">A passionate Cloud Engineer developer from Manchester</h3>
 
