@@ -1,7 +1,7 @@
   
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
 <h1>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Oliver </h1>
-<img align="center" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif">
+<img align="center" src="https://camo.githubusercontent.com/fb9f8045c2a49eec15a7608a6dcac8928a9f92e45bebab3619c9bec17a443c1a/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d45696763415342354b37492f5735373454727a357461492f41414141414141414150452f326967686d464c58576334543679386a6f62595f4c6f4271756930537549364177434c63424741732f73313630302f4b656c6c616e253235324241742532353242576f726b2e676966">
 <h3 align="center">A passionate Cloud Engineer developer from Manchester</h3>
 
 - 🔭 I’m currently working on **Node-api-project**
