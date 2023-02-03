@@ -1,9 +1,8 @@
+  <img align="center" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif">
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
 <h1>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Oliver </h1>
   <h3>Software Engineer</h3>
 <h3 align="center">A passionate Cloud Engineer developer from Manchester</h3>
-
-<img align="center" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif">
 
 - 🔭 I’m currently working on **Node-api-project**
 
