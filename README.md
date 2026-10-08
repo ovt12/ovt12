@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **olivertaylor1295@hotmail.com**
 
-- ⚡ Fun fact **I'll be running the MCR Marathon summer 2023**
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 
